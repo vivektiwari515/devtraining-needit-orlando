@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="HTC Data Mapping" max_length="40" name="x_58872_needit_htc_data_mapping" sizeclass="15" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="import_attribute_name=Complain ID" label="Complain ID" max_length="40" name="u_complain_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Complain Type" label="Complain Type" max_length="40" name="u_complain_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Customer Name" label="Customer Name" max_length="40" name="u_customer_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=In Warrenty ?" label="In Warrenty ?" max_length="40" name="u_in_warrenty__" type="string"/>
+        <element attributes="import_attribute_name=Mobile Number" label="Mobile Number" max_length="40" name="u_mobile_number" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model" label="Model" max_length="40" name="u_model" type="string"/>
+    </element>
+</database>
