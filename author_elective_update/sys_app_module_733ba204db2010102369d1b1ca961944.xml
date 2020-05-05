@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>HTC Data Mapping</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_htc_data_mapping</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 16:09:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>733ba204db2010102369d1b1ca961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HTC Data Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_733ba204db2010102369d1b1ca961944</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 16:09:11</sys_updated_on>
+        <timeline_page/>
+        <title>HTC Data Mapping</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>40994967dbe8370007072f17d49619c3</instance_id>
+        <instance_name>dev79412</instance_name>
+        <name>sys_app_module_733ba204db2010102369d1b1ca961944</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>HTC Data Mapping</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_htc_data_mapping</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-28 16:09:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>733ba204db2010102369d1b1ca961944</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HTC Data Mapping</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_733ba204db2010102369d1b1ca961944</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-28 16:09:11</sys_updated_on><timeline_page/><title>HTC Data Mapping</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1982843197</payload_hash>
+        <record_name>HTC Data Mapping</record_name>
+        <reverted_from/>
+        <source>794e1cf3db1010102369d1b1ca961985</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 16:09:11</sys_created_on>
+        <sys_id>7f3ba204db2010102369d1b1ca961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c18ca1f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 16:09:11</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b73ba2048920101041bd937471fd0146</update_guid>
+        <update_guid_history>b73ba2048920101041bd937471fd0146:1982843197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HTC Data Mapping">0df4fe9adbe010102369d1b1ca9619ed</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 16:37:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>8ac5df782a4242e9b81ba81c87e64009</sys_id>
+        <sys_metadata>733ba204db2010102369d1b1ca961944</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HTC Data Mapping</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_733ba204db2010102369d1b1ca961944</sys_update_name>
+        <sys_update_version display_value="sys_app_module_733ba204db2010102369d1b1ca961944">7f3ba204db2010102369d1b1ca961946</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:37:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
